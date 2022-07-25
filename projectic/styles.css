@@ -15,6 +15,7 @@ body{
 }
 #first-part{
     min-width: 35%;
+    max-height: 400px;
 }
 #second-part{
     display: flex;
@@ -31,4 +32,8 @@ span{
 }
 .editBtn{
     margin:3%;
+}
+.input-block{
+    display: block;
+    text-align: center;
 }
